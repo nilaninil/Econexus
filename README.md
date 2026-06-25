@@ -2,7 +2,7 @@
 
 ### Smart Waste Platform — Waste Intelligence & Predictive Eco-Infrastructure
 
-EcoNexus is a full-stack predictive waste management platform designed to help municipal authorities, city administrators, and large organizations optimize solid waste systems. By pairing a modern data dashboard with advanced AI architectures, the platform moves away from reactive waste management and transitions into data-driven, predictive eco-governance aimed at achieving UN Sustainable Development Goals (SDGs 11, 12, and 13).
+EcoNexus is a full-stack predictive waste management platform designed to help municipal authorities, city administrators, and large organizations optimize solid waste systems. By pairing a modern data dashboard with advanced AI architectures, the platform moves away from reactive waste management and transitions into data-driven, predictive eco-governance aimed at achieving UN Sustainable Development Goals by combining SDG 11 and 12.
 
 ---
 
@@ -37,6 +37,11 @@ Instead of just displaying charts or using generic chatbots, EcoNexus integrates
 *   **Runtime & Framework:** Node.js with Express
 *   **Database:** Lowdb (A lightweight, local JSON file-based database state manager)
 *   **Environment Variables:** Dotenv
+### AI Stack & Architecture
+*  Google Gemini AI API
+*  IBM Granite AI Model
+*  Retrieval-Augmented Generation (RAG)
+*  Agentic Workflow Orchestration
 
 ---
 
