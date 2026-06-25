@@ -12,7 +12,7 @@ EcoNexus is a full-stack predictive waste management platform designed to help m
 *   **City Waste Intelligence Aggregates:** A high-level overview screen tracking total daily, weekly, and monthly consolidated waste data (kg) alongside a live Urban Sustainability Index score.
 *   **Interactive Smart City GIS Heatmap:** A visual matrix broken down into dynamic regional sectors (Zones A, B, C, D) to track localized daily loads, structural risks, and institutional anomalies.
 *   **Compliance Reports & File Export:** Dedicated auditing sheets that log detailed raw metrics (preparation vs. waste, water/electricity overheads) with built-in filters and instant CSV/XML export functionality.
-*   **Responsible AI Guardrails:** Structural frameworks built directly into the UI mapping our adherence to Algorithmic Fairness, Data Anonymization, and Calculation Transparency (Explainable AI).
+*   **Responsible AI Guardrails:** Structural frameworks built directly into the UI mapping our adherence to Algorithmic Fairness, Data Anonymization, and Calculation Transparency (Explainable AI). 
 
 ---
 
