@@ -6,6 +6,7 @@ EcoNexus is a full-stack predictive waste management platform designed to help m
 
 ---
 
+
 ## 🔥 Key Features
 
 *   **City Waste Intelligence Aggregates:** A high-level overview screen tracking total daily, weekly, and monthly consolidated waste data (kg) alongside a live Urban Sustainability Index score.
