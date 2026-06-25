@@ -1,0 +1,8 @@
+{
+  "name": "Remix: Remix: Remix: EcoNexus",
+  "description": "EcoCity AI is an AI-powered Smart City Waste Intelligence Platform aligned with SDG 11 and SDG 12, providing predictive analytics, heatmaps, and sustainability metrics for municipalities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
